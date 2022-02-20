@@ -1,6 +1,6 @@
 # AOI_FHG
-## Work on state-of-the-art Deep Learning neural networks to help to improve the performance of an object detection model based on a Convolutional Neural Network (CNN).
-## The model is used to automatically inspect electronic components on circuit boards. 
+Work on state-of-the-art Deep Learning neural networks to help to improve the performance of an object detection model based on a Convolutional Neural Network (CNN).
+The model is used to automatically inspect electronic components on circuit boards. 
 
 ### This work will include:
 
