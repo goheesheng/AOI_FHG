@@ -1,0 +1,5823 @@
+{
+    "licenses": [
+        {
+            "name": "",
+            "id": 0,
+            "url": ""
+        }
+    ],
+    "info": {
+        "contributor": "",
+        "date_created": "",
+        "description": "",
+        "url": "",
+        "version": "",
+        "year": ""
+    },
+    "categories": [
+        {
+            "id": 1,
+            "name": "Resistor",
+            "supercategory": ""
+        },
+        {
+            "id": 2,
+            "name": "LED",
+            "supercategory": ""
+        },
+        {
+            "id": 3,
+            "name": "Electrolytic Capacitor",
+            "supercategory": ""
+        },
+        {
+            "id": 4,
+            "name": "Ceramic Capacitor",
+            "supercategory": ""
+        },
+        {
+            "id": 5,
+            "name": "Button",
+            "supercategory": ""
+        },
+        {
+            "id": 6,
+            "name": "NPN Transistor",
+            "supercategory": ""
+        },
+        {
+            "id": 7,
+            "name": "Diode Rectifier",
+            "supercategory": ""
+        },
+        {
+            "id": 8,
+            "name": "RGB LED",
+            "supercategory": ""
+        },
+        {
+            "id": 9,
+            "name": "Thermistor",
+            "supercategory": ""
+        },
+        {
+            "id": 10,
+            "name": "Photoresistor",
+            "supercategory": ""
+        },
+        {
+            "id": 11,
+            "name": "Passive Buzzer",
+            "supercategory": ""
+        },
+        {
+            "id": 12,
+            "name": "Active Buzzer",
+            "supercategory": ""
+        },
+        {
+            "id": 13,
+            "name": "IC 74HC595",
+            "supercategory": ""
+        },
+        {
+            "id": 14,
+            "name": "IC 4N35",
+            "supercategory": ""
+        },
+        {
+            "id": 15,
+            "name": "Precision Potentiometer",
+            "supercategory": ""
+        },
+        {
+            "id": 16,
+            "name": "Wire",
+            "supercategory": ""
+        }
+    ],
+    "images": [
+        {
+            "id": 1,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_201315.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 2,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_201244.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 3,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_201101.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 4,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_201051.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 5,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_201042.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 6,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_201031.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 7,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_201018.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 8,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_201006.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 9,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_201000.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 10,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_200913.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 11,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_200907.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 12,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_200856.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 13,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_200842.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 14,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_200832.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 15,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_200824.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 16,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_200703.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 17,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_200652.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 18,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_200632.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 19,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_200620.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 20,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_200615.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 21,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_200607.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 22,
+            "width": 3456,
+            "height": 4608,
+            "file_name": "IMG_20210226_200553.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 23,
+            "width": 4608,
+            "height": 3456,
+            "file_name": "IMG_20210226_200528.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 24,
+            "width": 4608,
+            "height": 3456,
+            "file_name": "IMG_20210226_200447.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 25,
+            "width": 4608,
+            "height": 3456,
+            "file_name": "IMG_20210226_200403.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 26,
+            "width": 4608,
+            "height": 3456,
+            "file_name": "IMG_20210226_200344.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 1,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 13877.140399999982,
+            "bbox": [
+                1505.41,
+                1501.24,
+                241.09,
+                57.56
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 2,
+            "image_id": 1,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 76729.14410000003,
+            "bbox": [
+                1750.29,
+                1520.89,
+                68.71,
+                1116.71
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 3,
+            "image_id": 1,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 8737.430400000025,
+            "bbox": [
+                2035.98,
+                1773.58,
+                170.92,
+                51.12
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 4,
+            "image_id": 1,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 9477.358800000009,
+            "bbox": [
+                1990.71,
+                2771.58,
+                53.69,
+                176.52
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 5,
+            "image_id": 1,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 34846.28639999994,
+            "bbox": [
+                1982.26,
+                1790.64,
+                57.84,
+                602.46
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 6,
+            "image_id": 1,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 20314.13280000001,
+            "bbox": [
+                1596.74,
+                2609.12,
+                65.26,
+                311.28
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 7,
+            "image_id": 1,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 18180.588599999995,
+            "bbox": [
+                1634.32,
+                2897.63,
+                351.18,
+                51.77
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 8,
+            "image_id": 1,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 13520.208000000017,
+            "bbox": [
+                1863.54,
+                2370.7,
+                97.76,
+                138.3
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 9,
+            "image_id": 1,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 49995.631000000045,
+            "bbox": [
+                1937.7,
+                2481.47,
+                157.7,
+                317.03
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 10,
+            "image_id": 2,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 15929.533799999985,
+            "bbox": [
+                1472.66,
+                1302.33,
+                245.94,
+                64.77
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 11,
+            "image_id": 2,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 91838.24559999986,
+            "bbox": [
+                1703.42,
+                1333.69,
+                81.88,
+                1121.62
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 12,
+            "image_id": 2,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 10880.411400000012,
+            "bbox": [
+                2000.53,
+                1582.48,
+                174.87,
+                62.22
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 13,
+            "image_id": 2,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 9089.717000000019,
+            "bbox": [
+                1925.81,
+                2593.1,
+                53.69,
+                169.3
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 14,
+            "image_id": 2,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 35809.98999999998,
+            "bbox": [
+                1939.28,
+                1602.85,
+                57.8,
+                619.55
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 15,
+            "image_id": 2,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 16099.50280000005,
+            "bbox": [
+                1540.86,
+                2425.23,
+                50.84,
+                316.67
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 16,
+            "image_id": 2,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 19244.39719999996,
+            "bbox": [
+                1580.24,
+                2711.94,
+                347.56,
+                55.37
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 17,
+            "image_id": 2,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 15656.223700000008,
+            "bbox": [
+                1813.67,
+                2186.81,
+                106.73,
+                146.69
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 18,
+            "image_id": 2,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 42235.9488,
+            "bbox": [
+                1887.22,
+                2299.39,
+                132.48,
+                318.81
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 19,
+            "image_id": 3,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 34697.437799999985,
+            "bbox": [
+                1352.16,
+                790.33,
+                350.94,
+                98.87
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 20,
+            "image_id": 3,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 211982.2830000002,
+            "bbox": [
+                1687.05,
+                842.68,
+                124.65,
+                1700.62
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 21,
+            "image_id": 3,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 17754.712499999987,
+            "bbox": [
+                2146.55,
+                1238.15,
+                250.95,
+                70.75
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 22,
+            "image_id": 3,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 20388.352400000018,
+            "bbox": [
+                2031.59,
+                2747.06,
+                80.51,
+                253.24
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 23,
+            "image_id": 3,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 74131.89520000004,
+            "bbox": [
+                2054.96,
+                1256.92,
+                80.44,
+                921.58
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 24,
+            "image_id": 3,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 33978.42000000001,
+            "bbox": [
+                1442.28,
+                2495.25,
+                72.72,
+                467.25
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 25,
+            "image_id": 3,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 45413.57300000009,
+            "bbox": [
+                1509.79,
+                2913.2,
+                514.31,
+                88.3
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 26,
+            "image_id": 3,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 33712.715,
+            "bbox": [
+                1857.65,
+                2126.6,
+                158.35,
+                212.9
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 27,
+            "image_id": 3,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 93750.31379999999,
+            "bbox": [
+                1982.26,
+                2308.33,
+                197.34,
+                475.07
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 28,
+            "image_id": 4,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 92486.34180000008,
+            "bbox": [
+                1947.48,
+                1225.77,
+                99.18,
+                932.51
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 29,
+            "image_id": 4,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 16500.326399999984,
+            "bbox": [
+                2011.04,
+                1205.96,
+                245.76,
+                67.14
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 30,
+            "image_id": 4,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 240256.06549999994,
+            "bbox": [
+                1589.96,
+                863.45,
+                141.79,
+                1694.45
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 31,
+            "image_id": 4,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 24263.031100000004,
+            "bbox": [
+                1169.39,
+                856.79,
+                367.01,
+                66.11
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 32,
+            "image_id": 4,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 22023.28899999997,
+            "bbox": [
+                2053.92,
+                2727.85,
+                85.18,
+                258.55
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 33,
+            "image_id": 4,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 44806.43969999994,
+            "bbox": [
+                1445.39,
+                2524.33,
+                91.41,
+                490.17
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 34,
+            "image_id": 4,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 30731.44800000003,
+            "bbox": [
+                1537.3,
+                2945.91,
+                519.2,
+                59.19
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 35,
+            "image_id": 4,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 33153.90320000003,
+            "bbox": [
+                1816.64,
+                2135.43,
+                164.56,
+                201.47
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 36,
+            "image_id": 4,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 113450.5006000001,
+            "bbox": [
+                1836.88,
+                2284.97,
+                241.42,
+                469.93
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 37,
+            "image_id": 5,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 44449.97399999983,
+            "bbox": [
+                1515.5,
+                2924.11,
+                528.6,
+                84.09
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 38,
+            "image_id": 5,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 15539.96829999997,
+            "bbox": [
+                2057.77,
+                1212.19,
+                255.13,
+                60.91
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 39,
+            "image_id": 5,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 182766.70610000007,
+            "bbox": [
+                1646.03,
+                847.87,
+                107.47,
+                1700.63
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 40,
+            "image_id": 5,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 27227.145600000007,
+            "bbox": [
+                1247.28,
+                822.52,
+                360.72,
+                75.48
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 41,
+            "image_id": 5,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 36330.40180000004,
+            "bbox": [
+                1822.87,
+                2116.74,
+                158.33,
+                229.46
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 42,
+            "image_id": 5,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 94396.88300000012,
+            "bbox": [
+                1921,
+                2297.43,
+                200.9,
+                469.87
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 43,
+            "image_id": 5,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 18426.736099999976,
+            "bbox": [
+                2032.11,
+                2740.31,
+                69.59,
+                264.79
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 44,
+            "image_id": 5,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 74257.38160000026,
+            "bbox": [
+                1984.86,
+                1244.46,
+                80.44,
+                923.14
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 45,
+            "image_id": 5,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 45714.148,
+            "bbox": [
+                1429.82,
+                2508.75,
+                94.48,
+                483.85
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 46,
+            "image_id": 6,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 64198.022999999754,
+            "bbox": [
+                1992.65,
+                1243.94,
+                70.05,
+                916.46
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 47,
+            "image_id": 6,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 93417.29249999992,
+            "bbox": [
+                1912.17,
+                2292.75,
+                199.93,
+                467.25
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 48,
+            "image_id": 6,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 33235.91400000004,
+            "bbox": [
+                1829.1,
+                2121.41,
+                150.6,
+                220.69
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 49,
+            "image_id": 6,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 40660.21440000003,
+            "bbox": [
+                1514.98,
+                2931.38,
+                521.82,
+                77.92
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 50,
+            "image_id": 6,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 39911.268000000084,
+            "bbox": [
+                1429.3,
+                2516.02,
+                83.1,
+                480.28
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 51,
+            "image_id": 6,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 20429.56019999998,
+            "bbox": [
+                2036.79,
+                2734.08,
+                77.91,
+                262.22
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 52,
+            "image_id": 6,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 15950.849199999946,
+            "bbox": [
+                2055.69,
+                1217.38,
+                253.51,
+                62.92
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 53,
+            "image_id": 6,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 142832.27999999985,
+            "bbox": [
+                1650.7,
+                829.7,
+                83.1,
+                1718.8
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 54,
+            "image_id": 6,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 30814.198799999995,
+            "bbox": [
+                1245.72,
+                813.69,
+                358.68,
+                85.91
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 55,
+            "image_id": 7,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 13712.230399999935,
+            "bbox": [
+                2060.88,
+                1217.38,
+                248.32,
+                55.22
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 56,
+            "image_id": 7,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 132680.83800000016,
+            "bbox": [
+                1653.3,
+                845.28,
+                77.9,
+                1703.22
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 57,
+            "image_id": 7,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 28741.970400000006,
+            "bbox": [
+                1240.53,
+                821.48,
+                356.07,
+                80.72
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 58,
+            "image_id": 7,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 17529.69840000002,
+            "bbox": [
+                2041.98,
+                2728.88,
+                64.92,
+                270.02
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 59,
+            "image_id": 7,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 65647.35749999975,
+            "bbox": [
+                1992.65,
+                1236.15,
+                70.05,
+                937.15
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 60,
+            "image_id": 7,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 39915.23969999995,
+            "bbox": [
+                1434.49,
+                2510.83,
+                83.11,
+                480.27
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 61,
+            "image_id": 7,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 37573.772600000004,
+            "bbox": [
+                1514.98,
+                2933.97,
+                516.62,
+                72.73
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 62,
+            "image_id": 7,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 34691.73509999997,
+            "bbox": [
+                1823.91,
+                2124.01,
+                160.99,
+                215.49
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 63,
+            "image_id": 7,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 94252.70119999994,
+            "bbox": [
+                1914.77,
+                2292.76,
+                197.33,
+                477.64
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 64,
+            "image_id": 8,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 17119.76099999997,
+            "bbox": [
+                2064,
+                1212.19,
+                255.1,
+                67.11
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 65,
+            "image_id": 8,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 23457.926699999985,
+            "bbox": [
+                1250.39,
+                825.63,
+                354.51,
+                66.17
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 66,
+            "image_id": 8,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 162409.15140000006,
+            "bbox": [
+                1642.92,
+                847.87,
+                94.98,
+                1709.93
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 67,
+            "image_id": 8,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 21376.924799999968,
+            "bbox": [
+                2035.23,
+                2730.96,
+                78.87,
+                271.04
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 68,
+            "image_id": 8,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 69907.81799999982,
+            "bbox": [
+                1987.98,
+                1232,
+                74.22,
+                941.9
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 69,
+            "image_id": 8,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 38166.08800000005,
+            "bbox": [
+                1429.82,
+                2508.75,
+                78.88,
+                483.85
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 70,
+            "image_id": 8,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 43396.32629999983,
+            "bbox": [
+                1521.73,
+                2924.11,
+                516.07,
+                84.09
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 71,
+            "image_id": 8,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 29698.158500000027,
+            "bbox": [
+                1819.75,
+                2132.31,
+                152.15,
+                195.19
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 72,
+            "image_id": 8,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 102726.72820000014,
+            "bbox": [
+                1908.54,
+                2297.43,
+                210.26,
+                488.57
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 73,
+            "image_id": 9,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 29375.225100000018,
+            "bbox": [
+                1240.53,
+                831.87,
+                363.87,
+                80.73
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 74,
+            "image_id": 9,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 142402.65300000025,
+            "bbox": [
+                1653.3,
+                845.27,
+                83.1,
+                1713.63
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 75,
+            "image_id": 9,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 22771.62920000001,
+            "bbox": [
+                2060.88,
+                1209.59,
+                256.12,
+                88.91
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 76,
+            "image_id": 9,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 16180.141599999932,
+            "bbox": [
+                2039.38,
+                2736.67,
+                62.32,
+                259.63
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 77,
+            "image_id": 9,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 57861.33099999977,
+            "bbox": [
+                2000.44,
+                1236.15,
+                62.26,
+                929.35
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 78,
+            "image_id": 9,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 38661.735,
+            "bbox": [
+                1429.3,
+                2508.23,
+                80.5,
+                480.27
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 79,
+            "image_id": 9,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 37951.96860000001,
+            "bbox": [
+                1514.98,
+                2936.57,
+                521.82,
+                72.73
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 80,
+            "image_id": 9,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 33014.60000000001,
+            "bbox": [
+                1831.7,
+                2129.2,
+                153.2,
+                215.5
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 81,
+            "image_id": 9,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 93419.29180000008,
+            "bbox": [
+                1909.57,
+                2303.14,
+                199.93,
+                467.26
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 82,
+            "image_id": 10,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 106892.44360000004,
+            "bbox": [
+                1843.12,
+                2288.08,
+                228.98,
+                466.82
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 83,
+            "image_id": 10,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 34855.73120000004,
+            "bbox": [
+                1804.18,
+                2116.74,
+                158.32,
+                220.16
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 84,
+            "image_id": 10,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 45262.60200000004,
+            "bbox": [
+                1499.92,
+                2911.65,
+                537.88,
+                84.15
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 85,
+            "image_id": 10,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 41455.756099999926,
+            "bbox": [
+                1420.47,
+                2505.63,
+                85.13,
+                486.97
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 86,
+            "image_id": 10,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 93118.04800000026,
+            "bbox": [
+                1950.6,
+                1213.31,
+                99.2,
+                938.69
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 87,
+            "image_id": 10,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 20894.298000000003,
+            "bbox": [
+                2029,
+                2715.38,
+                78.9,
+                264.82
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 88,
+            "image_id": 10,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 29335.67980000001,
+            "bbox": [
+                1194.32,
+                816.29,
+                373.18,
+                78.61
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 89,
+            "image_id": 10,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 178148.10930000024,
+            "bbox": [
+                1605.53,
+                835.41,
+                104.37,
+                1706.89
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 90,
+            "image_id": 10,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 12491.473999999998,
+            "bbox": [
+                2023.5,
+                1202.84,
+                242.6,
+                51.49
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 91,
+            "image_id": 11,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 85914.5879999999,
+            "bbox": [
+                1942.5,
+                1218.92,
+                91.1,
+                943.08
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 92,
+            "image_id": 11,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 35958.56850000002,
+            "bbox": [
+                1200.55,
+                815.67,
+                369.45,
+                97.33
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 93,
+            "image_id": 11,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 199545.86790000007,
+            "bbox": [
+                1596.81,
+                834.79,
+                116.19,
+                1717.41
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 94,
+            "image_id": 11,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 19781.570399999993,
+            "bbox": [
+                2026.62,
+                1184.77,
+                233.88,
+                84.58
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 95,
+            "image_id": 11,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 20315.651999999915,
+            "bbox": [
+                2024.63,
+                2710.4,
+                77.07,
+                263.6
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 96,
+            "image_id": 11,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 50071.41599999996,
+            "bbox": [
+                1417.98,
+                2499.4,
+                102.02,
+                490.8
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 97,
+            "image_id": 11,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 48912.046399999956,
+            "bbox": [
+                1508.02,
+                2902.92,
+                549.08,
+                89.08
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 98,
+            "image_id": 11,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 32323.689899999947,
+            "bbox": [
+                1801.69,
+                2110.51,
+                150.21,
+                215.19
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 99,
+            "image_id": 11,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 107938.72169999988,
+            "bbox": [
+                1851.21,
+                2268.77,
+                221.49,
+                487.33
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 100,
+            "image_id": 12,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 110797.77799999989,
+            "bbox": [
+                1840,
+                2287.46,
+                232.7,
+                476.14
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 101,
+            "image_id": 12,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 40693.96000000002,
+            "bbox": [
+                1204.59,
+                789.8,
+                350.81,
+                116
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 102,
+            "image_id": 12,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 200454.11530000003,
+            "bbox": [
+                1604.29,
+                823.57,
+                116.21,
+                1724.93
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 103,
+            "image_id": 12,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 15896.848499999984,
+            "bbox": [
+                2034.09,
+                1192.25,
+                241.41,
+                65.85
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 104,
+            "image_id": 12,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 24586.725799999993,
+            "bbox": [
+                2024.63,
+                2706.66,
+                88.27,
+                278.54
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 105,
+            "image_id": 12,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 103910.61120000001,
+            "bbox": [
+                1938.76,
+                1218.92,
+                109.74,
+                946.88
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 106,
+            "image_id": 12,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 48155.48039999999,
+            "bbox": [
+                1417.98,
+                2506.88,
+                102.02,
+                472.02
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 107,
+            "image_id": 12,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 42700.01400000017,
+            "bbox": [
+                1515.5,
+                2914.14,
+                522.9,
+                81.66
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 108,
+            "image_id": 12,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 39102.08079999998,
+            "bbox": [
+                1801.68,
+                2110.51,
+                172.72,
+                226.39
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 109,
+            "image_id": 13,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 37087.37199999994,
+            "bbox": [
+                1800.94,
+                2111.25,
+                174.16,
+                212.95
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 110,
+            "image_id": 13,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 29837.180699999986,
+            "bbox": [
+                1189.33,
+                823.89,
+                368.77,
+                80.91
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 111,
+            "image_id": 13,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 230108.33000000016,
+            "bbox": [
+                1593.1,
+                829.55,
+                133.4,
+                1724.95
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 112,
+            "image_id": 13,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 16996.397999999972,
+            "bbox": [
+                2023.62,
+                1193,
+                249.58,
+                68.1
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 113,
+            "image_id": 13,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 26589.329599999997,
+            "bbox": [
+                2028.38,
+                2721.62,
+                96.52,
+                275.48
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 114,
+            "image_id": 13,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 113352.94179999997,
+            "bbox": [
+                1949.22,
+                1212.19,
+                118.78,
+                954.31
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 115,
+            "image_id": 13,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 50383.645,
+            "bbox": [
+                1415.74,
+                2501.65,
+                104.26,
+                483.25
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 116,
+            "image_id": 13,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 26373.796399999876,
+            "bbox": [
+                1511.01,
+                2929.84,
+                540.89,
+                48.76
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 117,
+            "image_id": 13,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 107439.76079999999,
+            "bbox": [
+                1845.98,
+                2255.31,
+                209.52,
+                512.79
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 118,
+            "image_id": 14,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 33138.24800000001,
+            "bbox": [
+                1199.2,
+                800.56,
+                365.2,
+                90.74
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 119,
+            "image_id": 14,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 258393.46499999997,
+            "bbox": [
+                1581.41,
+                815.2,
+                149.49,
+                1728.5
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 120,
+            "image_id": 14,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 25868.955200000022,
+            "bbox": [
+                2021.8,
+                1168.77,
+                253.22,
+                102.16
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 121,
+            "image_id": 14,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 29694.953699999955,
+            "bbox": [
+                2016.71,
+                2704.57,
+                100.89,
+                294.33
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 122,
+            "image_id": 14,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 111685.59360000021,
+            "bbox": [
+                1937.56,
+                1187.96,
+                114.24,
+                977.64
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 123,
+            "image_id": 14,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 64259.9396,
+            "bbox": [
+                1397.79,
+                2501.64,
+                127.51,
+                503.96
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 124,
+            "image_id": 14,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 52499.66159999995,
+            "bbox": [
+                1519.09,
+                2902.03,
+                525.68,
+                99.87
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 125,
+            "image_id": 14,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 116082.01599999999,
+            "bbox": [
+                1838.8,
+                2270.56,
+                228.4,
+                508.24
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 126,
+            "image_id": 14,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 38221.116999999955,
+            "bbox": [
+                1791.96,
+                2117.53,
+                185.81,
+                205.7
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 127,
+            "image_id": 15,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 103532.58489999984,
+            "bbox": [
+                1844.19,
+                2286.71,
+                217.51,
+                475.99
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 128,
+            "image_id": 15,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 27251.224000000006,
+            "bbox": [
+                1199.2,
+                827.48,
+                365.2,
+                74.62
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 129,
+            "image_id": 15,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 193423.62599999976,
+            "bbox": [
+                1602.9,
+                825.96,
+                111.9,
+                1728.54
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 130,
+            "image_id": 15,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 19471.074,
+            "bbox": [
+                2016.45,
+                1201.03,
+                258.58,
+                75.3
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 131,
+            "image_id": 15,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 22949.99740000004,
+            "bbox": [
+                2027.48,
+                2715.33,
+                79.42,
+                288.97
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 132,
+            "image_id": 15,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 113765.54839999987,
+            "bbox": [
+                1942.94,
+                1220.26,
+                119.66,
+                950.74
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 133,
+            "image_id": 15,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 62217.38999999997,
+            "bbox": [
+                1413.94,
+                2501.65,
+                127.56,
+                487.75
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 134,
+            "image_id": 15,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 44902.04400000001,
+            "bbox": [
+                1513.7,
+                2912.79,
+                536.4,
+                83.71
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 135,
+            "image_id": 15,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 44481.59639999999,
+            "bbox": [
+                1786.58,
+                2101.38,
+                191.22,
+                232.62
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 136,
+            "image_id": 16,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 25412.80500000006,
+            "bbox": [
+                2043.62,
+                2709.95,
+                84.78,
+                299.75
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 137,
+            "image_id": 16,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 40730.0355,
+            "bbox": [
+                1802.73,
+                2112.15,
+                175.07,
+                232.65
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 138,
+            "image_id": 16,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 125662.21500000003,
+            "bbox": [
+                1838.8,
+                2275.95,
+                249.9,
+                502.85
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 139,
+            "image_id": 16,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 37709.136900000085,
+            "bbox": [
+                1497.59,
+                2939.71,
+                557.91,
+                67.59
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 140,
+            "image_id": 16,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 121633.47899999993,
+            "bbox": [
+                1942.9,
+                1204.11,
+                125.1,
+                972.29
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 141,
+            "image_id": 16,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 58197.2248,
+            "bbox": [
+                1408.56,
+                2523.18,
+                116.74,
+                498.52
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 142,
+            "image_id": 16,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 36129.75600000001,
+            "bbox": [
+                1188.44,
+                789.8,
+                375.96,
+                96.1
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 143,
+            "image_id": 16,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 231920.92880000029,
+            "bbox": [
+                1597.56,
+                820.58,
+                133.34,
+                1739.32
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 144,
+            "image_id": 16,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 17386.007999999998,
+            "bbox": [
+                2032.6,
+                1179.54,
+                269.3,
+                64.56
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 145,
+            "image_id": 17,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 32685.346799999985,
+            "bbox": [
+                2037.94,
+                1088.02,
+                264.06,
+                123.78
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 146,
+            "image_id": 17,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 37959.62880000002,
+            "bbox": [
+                1476.02,
+                2864.34,
+                520.28,
+                72.96
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 147,
+            "image_id": 17,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 56730.45000000005,
+            "bbox": [
+                1376.3,
+                2437.05,
+                111.4,
+                509.25
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 148,
+            "image_id": 17,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 95402.07599999987,
+            "bbox": [
+                1964.48,
+                1144.9,
+                98.12,
+                972.3
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 149,
+            "image_id": 17,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 24053.255599999975,
+            "bbox": [
+                1995.18,
+                2656.12,
+                84.82,
+                283.58
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 150,
+            "image_id": 17,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 157684.1784000002,
+            "bbox": [
+                1608.32,
+                745.22,
+                90.38,
+                1744.68
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 151,
+            "image_id": 17,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 48963.85550000003,
+            "bbox": [
+                1210.01,
+                676.75,
+                381.19,
+                128.45
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 152,
+            "image_id": 17,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 38582.44759999999,
+            "bbox": [
+                1786.58,
+                2042.17,
+                169.72,
+                227.33
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 153,
+            "image_id": 17,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 116063.45449999995,
+            "bbox": [
+                1822.65,
+                2216.73,
+                228.35,
+                508.27
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 154,
+            "image_id": 18,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 127048.04819999977,
+            "bbox": [
+                1964.48,
+                972.59,
+                114.22,
+                1112.31
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 155,
+            "image_id": 18,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 43090.34729999997,
+            "bbox": [
+                1107.69,
+                509.87,
+                424.41,
+                101.53
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 156,
+            "image_id": 18,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 264362.58780000015,
+            "bbox": [
+                1554.49,
+                551.42,
+                133.41,
+                1981.58
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 157,
+            "image_id": 18,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 29553.89650000002,
+            "bbox": [
+                2048.73,
+                953.45,
+                323.17,
+                91.45
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 158,
+            "image_id": 18,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 29934.923200000027,
+            "bbox": [
+                2038.24,
+                2688.38,
+                90.16,
+                332.02
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 159,
+            "image_id": 18,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 67661.07199999997,
+            "bbox": [
+                1333.2,
+                2447.81,
+                116.8,
+                579.29
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 160,
+            "image_id": 18,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 74796.87840000015,
+            "bbox": [
+                1438.34,
+                2923.56,
+                590.16,
+                126.74
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 161,
+            "image_id": 18,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 57177.42300000008,
+            "bbox": [
+                1775.81,
+                1999.1,
+                207.39,
+                275.7
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 162,
+            "image_id": 18,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 150731.28850000005,
+            "bbox": [
+                1822.65,
+                2189.81,
+                260.65,
+                578.29
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 163,
+            "image_id": 19,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 58671.32749999999,
+            "bbox": [
+                1802.73,
+                2015.25,
+                212.77,
+                275.75
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 164,
+            "image_id": 19,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 42502.47750000002,
+            "bbox": [
+                1150.75,
+                515.25,
+                418.95,
+                101.45
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 165,
+            "image_id": 19,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 241015.77569999977,
+            "bbox": [
+                1592.17,
+                556.81,
+                122.63,
+                1965.39
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 166,
+            "image_id": 19,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 25116.7308,
+            "bbox": [
+                2107.96,
+                974.98,
+                274.74,
+                91.42
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 167,
+            "image_id": 19,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 23377.53870000006,
+            "bbox": [
+                2054.39,
+                2715.33,
+                74.01,
+                315.87
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 168,
+            "image_id": 19,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 135622.8367999998,
+            "bbox": [
+                1986.01,
+                994.17,
+                124.96,
+                1085.33
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 169,
+            "image_id": 19,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 62113.276399999966,
+            "bbox": [
+                1354.73,
+                2458.58,
+                111.37,
+                557.72
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 170,
+            "image_id": 19,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 76907.45260000014,
+            "bbox": [
+                1459.87,
+                2918.18,
+                606.43,
+                126.82
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 171,
+            "image_id": 19,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 136379.13340000002,
+            "bbox": [
+                1908.79,
+                2205.96,
+                233.71,
+                583.54
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 172,
+            "image_id": 20,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 253701.68739999994,
+            "bbox": [
+                1592.17,
+                551.42,
+                128.03,
+                1981.58
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 173,
+            "image_id": 20,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 53805.74849999999,
+            "bbox": [
+                1150.75,
+                509.87,
+                418.95,
+                128.43
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 174,
+            "image_id": 20,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 131367.94650000005,
+            "bbox": [
+                1914.17,
+                2211.35,
+                233.73,
+                562.05
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 175,
+            "image_id": 20,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 56368.11249999996,
+            "bbox": [
+                1797.35,
+                2015.25,
+                212.75,
+                264.95
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 176,
+            "image_id": 20,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 72989.08320000005,
+            "bbox": [
+                1459.87,
+                2923.56,
+                601.03,
+                121.44
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 177,
+            "image_id": 20,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 72528.64779999996,
+            "bbox": [
+                1354.73,
+                2463.96,
+                127.57,
+                568.54
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 178,
+            "image_id": 20,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 111237.41600000022,
+            "bbox": [
+                1996.78,
+                999.55,
+                103.52,
+                1074.55
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 179,
+            "image_id": 20,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 36979.71800000002,
+            "bbox": [
+                2043.62,
+                2709.95,
+                117.08,
+                315.85
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 180,
+            "image_id": 20,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 18774.040600000015,
+            "bbox": [
+                2091.81,
+                980.36,
+                290.89,
+                64.54
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 181,
+            "image_id": 21,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 58661.5575,
+            "bbox": [
+                1797.35,
+                2009.87,
+                212.75,
+                275.73
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 182,
+            "image_id": 21,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 34385.80800000002,
+            "bbox": [
+                1161.52,
+                515.25,
+                402.88,
+                85.35
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 183,
+            "image_id": 21,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 250167.97410000005,
+            "bbox": [
+                1581.41,
+                556.81,
+                127.99,
+                1954.59
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 184,
+            "image_id": 21,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 21710.965999999986,
+            "bbox": [
+                2097.2,
+                974.98,
+                269.3,
+                80.62
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 185,
+            "image_id": 21,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 26792.94159999992,
+            "bbox": [
+                2059.78,
+                2720.72,
+                84.82,
+                315.88
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 186,
+            "image_id": 21,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 95259.9911999999,
+            "bbox": [
+                2002.16,
+                1010.32,
+                87.34,
+                1090.68
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 187,
+            "image_id": 21,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 60839.139,
+            "bbox": [
+                1365.49,
+                2453.2,
+                106.01,
+                573.9
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 188,
+            "image_id": 21,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 58323.51000000001,
+            "bbox": [
+                1443.72,
+                2934.3,
+                617.18,
+                94.5
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 189,
+            "image_id": 21,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 127756.04459999989,
+            "bbox": [
+                1914.17,
+                2200.58,
+                223.03,
+                572.82
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 190,
+            "image_id": 22,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 215714.99760000012,
+            "bbox": [
+                1588.58,
+                551.42,
+                110.92,
+                1944.78
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 191,
+            "image_id": 22,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 22353.787299999993,
+            "bbox": [
+                2090.92,
+                973.18,
+                289.97,
+                77.09
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 192,
+            "image_id": 22,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 26172.160000000003,
+            "bbox": [
+                2055.3,
+                2721.62,
+                92,
+                284.48
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 193,
+            "image_id": 22,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 99584.12520000017,
+            "bbox": [
+                1998.57,
+                996.86,
+                91.83,
+                1084.44
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 194,
+            "image_id": 22,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 57421.32199999997,
+            "bbox": [
+                1352.9,
+                2465.76,
+                104.3,
+                550.54
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 195,
+            "image_id": 22,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 76018.75000000001,
+            "bbox": [
+                1466.15,
+                2916.4,
+                608.15,
+                125
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 196,
+            "image_id": 22,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 36381.529799999975,
+            "bbox": [
+                1814.39,
+                2026.02,
+                160.71,
+                226.38
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 197,
+            "image_id": 22,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 131338.52379999988,
+            "bbox": [
+                1908.79,
+                2219.42,
+                245.41,
+                535.18
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 198,
+            "image_id": 22,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 39417.11509999998,
+            "bbox": [
+                1144.47,
+                523.33,
+                418.13,
+                94.27
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 199,
+            "image_id": 23,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 16309.75939999994,
+            "bbox": [
+                2515.32,
+                1607.39,
+                142.78,
+                114.23
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 200,
+            "image_id": 23,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 9078.775199999998,
+            "bbox": [
+                1661.95,
+                1859.04,
+                36.78,
+                246.84
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 201,
+            "image_id": 23,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 73538.71359999987,
+            "bbox": [
+                1670.61,
+                1772.5,
+                1129.28,
+                65.12
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 202,
+            "image_id": 23,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 7215.767999999996,
+            "bbox": [
+                1908.58,
+                1400.4,
+                43.26,
+                166.8
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 203,
+            "image_id": 23,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 8491.775600000015,
+            "bbox": [
+                2909.06,
+                1522.58,
+                181.72,
+                46.73
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 204,
+            "image_id": 23,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 35737.12799999994,
+            "bbox": [
+                1923.42,
+                1560.66,
+                625.65,
+                57.12
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 205,
+            "image_id": 23,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 19274.053899999955,
+            "bbox": [
+                2767.13,
+                1910.71,
+                337.49,
+                57.11
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 206,
+            "image_id": 23,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 18600.859200000024,
+            "bbox": [
+                3046.65,
+                1567.15,
+                51.92,
+                358.26
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 207,
+            "image_id": 23,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 48100.26640000007,
+            "bbox": [
+                2632.14,
+                1508.31,
+                303.74,
+                158.36
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 208,
+            "image_id": 24,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 48100.26640000007,
+            "bbox": [
+                2714.35,
+                1327.02,
+                303.74,
+                158.36
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 209,
+            "image_id": 24,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 16309.759399999974,
+            "bbox": [
+                2597.53,
+                1438.65,
+                142.78,
+                114.23
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 210,
+            "image_id": 24,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 18600.859199999864,
+            "bbox": [
+                3137.51,
+                1399.7,
+                51.92,
+                358.26
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 211,
+            "image_id": 24,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 19274.05390000003,
+            "bbox": [
+                2841.55,
+                1752.78,
+                337.49,
+                57.11
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 212,
+            "image_id": 24,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 8491.775599999994,
+            "bbox": [
+                2999.92,
+                1363.36,
+                181.72,
+                46.73
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 213,
+            "image_id": 24,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 7215.767999999996,
+            "bbox": [
+                1993.39,
+                1222.57,
+                43.26,
+                166.8
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 214,
+            "image_id": 24,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 73538.71359999987,
+            "bbox": [
+                1746.76,
+                1605.92,
+                1129.28,
+                65.12
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 215,
+            "image_id": 24,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 9078.775199999991,
+            "bbox": [
+                1741.56,
+                1693.76,
+                36.78,
+                246.84
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 216,
+            "image_id": 24,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 35737.12800000008,
+            "bbox": [
+                2000.44,
+                1381.53,
+                625.65,
+                57.12
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 217,
+            "image_id": 25,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 48100.26640000001,
+            "bbox": [
+                2729.93,
+                1373.75,
+                303.74,
+                158.36
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 218,
+            "image_id": 25,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 11813.72419999998,
+            "bbox": [
+                1767.53,
+                1698.9,
+                44.57,
+                265.06
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 219,
+            "image_id": 25,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 70041.2619999999,
+            "bbox": [
+                1764.93,
+                1634.4,
+                1118.87,
+                62.6
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 220,
+            "image_id": 25,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 7215.768000000035,
+            "bbox": [
+                2024.54,
+                1251.13,
+                43.26,
+                166.8
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 221,
+            "image_id": 25,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 8491.775599999994,
+            "bbox": [
+                3018.09,
+                1404.9,
+                181.72,
+                46.73
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 222,
+            "image_id": 25,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 35737.12800000007,
+            "bbox": [
+                2036.78,
+                1415.28,
+                625.65,
+                57.12
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 223,
+            "image_id": 25,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 19274.053899999955,
+            "bbox": [
+                2854.53,
+                1799.51,
+                337.49,
+                57.11
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 224,
+            "image_id": 25,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 18600.859200000024,
+            "bbox": [
+                3147.89,
+                1467.2,
+                51.92,
+                358.26
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 225,
+            "image_id": 25,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 16309.759399999974,
+            "bbox": [
+                2618.3,
+                1480.18,
+                142.78,
+                114.23
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 226,
+            "image_id": 26,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 9078.775199999998,
+            "bbox": [
+                1705.22,
+                1828.75,
+                36.78,
+                246.84
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "black",
+                "leg 1 row": 3,
+                "leg 1 col": "N1",
+                "leg 2 row": 3,
+                "leg 2 col": "c",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 227,
+            "image_id": 26,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 73538.71359999987,
+            "bbox": [
+                1705.22,
+                1735.72,
+                1129.28,
+                65.12
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 3,
+                "leg 1 col": "e",
+                "leg 2 row": 33,
+                "leg 2 col": "e",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 228,
+            "image_id": 26,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 7215.767999999996,
+            "bbox": [
+                1951.85,
+                1367.95,
+                43.26,
+                166.8
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 10,
+                "leg 1 col": "j",
+                "leg 2 row": 10,
+                "leg 2 col": "P2",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 229,
+            "image_id": 26,
+            "category_id": 16,
+            "segmentation": [],
+            "area": 8491.775599999994,
+            "bbox": [
+                2948,
+                1487.97,
+                181.72,
+                46.73
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "green",
+                "leg 1 row": 37,
+                "leg 1 col": "j",
+                "leg 2 row": 41,
+                "leg 2 col": "j",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 230,
+            "image_id": 26,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 35737.12799999994,
+            "bbox": [
+                1953.71,
+                1521.72,
+                625.65,
+                57.12
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 10,
+                "leg 1 col": "i",
+                "leg 2 row": 26,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 231,
+            "image_id": 26,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 19274.05390000003,
+            "bbox": [
+                2797.42,
+                1882.58,
+                337.49,
+                57.11
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 33,
+                "leg 1 col": "a",
+                "leg 2 row": 41,
+                "leg 2 col": "a",
+                "defectClass": "good",
+                "subClass": "220",
+                "occluded": false
+            }
+        },
+        {
+            "id": 232,
+            "image_id": 26,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 18600.859200000024,
+            "bbox": [
+                3085.59,
+                1534.7,
+                51.92,
+                358.26
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 41,
+                "leg 1 col": "b",
+                "leg 2 row": 41,
+                "leg 2 col": "i",
+                "defectClass": "good",
+                "subClass": "100",
+                "occluded": false
+            }
+        },
+        {
+            "id": 233,
+            "image_id": 26,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 16309.759399999974,
+            "bbox": [
+                2545.61,
+                1568.45,
+                142.78,
+                114.23
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "leg 1 row": 26,
+                "leg 1 col": "f",
+                "leg 2 row": 26,
+                "leg 2 col": "h",
+                "leg 3 row": 29,
+                "leg 3 col": "f",
+                "leg 4 row": 29,
+                "leg 4 col": "h",
+                "defectClass": "good",
+                "occluded": false
+            }
+        },
+        {
+            "id": 234,
+            "image_id": 26,
+            "category_id": 3,
+            "segmentation": [],
+            "area": 48100.26640000001,
+            "bbox": [
+                2662.43,
+                1506.15,
+                303.74,
+                158.36
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "subClass": "100UF",
+                "leg N row": 29,
+                "leg N col": "i",
+                "leg P row": 37,
+                "leg P col": "i",
+                "defectClass": "good",
+                "occluded": false
+            }
+        }
+    ]
+}

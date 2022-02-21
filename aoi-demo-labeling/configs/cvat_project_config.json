@@ -1,0 +1,1897 @@
+[
+  {
+    "name": "Resistor",
+    "id": 10,
+    "color": "#33ddff",
+    "attributes": [
+      {
+        "id": 12,
+        "name": "subClass",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "10",
+          "100",
+          "220",
+          "330",
+          "1k",
+          "2k",
+          "5.1k",
+          "10k",
+          "100k",
+          "1M"
+        ]
+      },
+      {
+        "id": 13,
+        "name": "leg 1 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 14,
+        "name": "leg 1 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 15,
+        "name": "leg 2 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 16,
+        "name": "leg 2 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 17,
+        "name": "defectClass",
+        "input_type": "select",
+        "mutable": false,
+        "values": ["good", "NCM", "damaged", "broken"]
+      }
+    ]
+  },
+  {
+    "name": "LED",
+    "id": 20,
+    "color": "#3df53d",
+    "attributes": [
+      {
+        "id": 22,
+        "name": "subClass",
+        "input_type": "select",
+        "mutable": false,
+        "values": ["red", "green", "blue", "yellow", "white"]
+      },
+      {
+        "id": 23,
+        "name": "leg N row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 24,
+        "name": "leg N col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 25,
+        "name": "leg P row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 26,
+        "name": "leg P col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 27,
+        "name": "defectClass",
+        "input_type": "select",
+        "mutable": false,
+        "values": ["good", "NCM", "damaged", "broken"]
+      }
+    ]
+  },
+  {
+    "name": "Electrolytic Capacitor",
+    "id": 30,
+    "color": "#1d1d1d",
+    "attributes": [
+      {
+        "id": 32,
+        "name": "subClass",
+        "input_type": "select",
+        "mutable": false,
+        "values": ["10UF", "100UF"]
+      },
+      {
+        "id": 33,
+        "name": "leg N row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 34,
+        "name": "leg N col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 35,
+        "name": "leg P row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 36,
+        "name": "leg P col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 37,
+        "name": "defectClass",
+        "input_type": "select",
+        "mutable": false,
+        "values": ["good", "NCM", "damaged", "broken"]
+      }
+    ]
+  },
+  {
+    "name": "Ceramic Capacitor",
+    "id": 40,
+    "color": "#ff6037",
+    "attributes": [
+      {
+        "id": 42,
+        "name": "subClass",
+        "input_type": "select",
+        "mutable": false,
+        "values": ["22PF", "100NF"]
+      },
+      {
+        "id": 43,
+        "name": "leg 1 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 44,
+        "name": "leg 1 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 45,
+        "name": "leg 2 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 46,
+        "name": "leg 2 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 47,
+        "name": "defectClass",
+        "input_type": "select",
+        "mutable": false,
+        "values": ["good", "NCM", "damaged", "broken"]
+      }
+    ]
+  },
+  {
+    "name": "Button",
+    "id": 50,
+    "color": "#c9c9c9",
+    "attributes": [
+      {
+        "id": 51,
+        "name": "leg 1 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 52,
+        "name": "leg 1 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 53,
+        "name": "leg 2 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 54,
+        "name": "leg 2 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 55,
+        "name": "leg 3 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 56,
+        "name": "leg 3 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 57,
+        "name": "leg 4 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 58,
+        "name": "leg 4 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 59,
+        "name": "defectClass",
+        "input_type": "select",
+        "mutable": false,
+        "values": ["good", "NCM", "damaged", "broken"]
+      }
+    ]
+  },
+  {
+    "name": "NPN Transistor",
+    "id": 60,
+    "color": "#252525",
+    "attributes": [
+      {
+        "id": 61,
+        "name": "leg 1 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 62,
+        "name": "leg 1 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 63,
+        "name": "leg 2 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 64,
+        "name": "leg 2 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 65,
+        "name": "leg 3 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 66,
+        "name": "leg 3 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 67,
+        "name": "defectClass",
+        "input_type": "select",
+        "mutable": false,
+        "values": ["good", "NCM", "damaged", "broken"]
+      }
+    ]
+  },
+  {
+    "name": "Diode Rectifier",
+    "id": 70,
+    "color": "#6e6c6c",
+    "attributes": [
+      {
+        "id": 71,
+        "name": "leg N row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 72,
+        "name": "leg N col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 73,
+        "name": "leg P row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 74,
+        "name": "leg P col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 75,
+        "name": "defectClass",
+        "input_type": "select",
+        "mutable": false,
+        "values": ["good", "NCM", "damaged", "broken"]
+      }
+    ]
+  },
+  {
+    "name": "RGB LED",
+    "id": 80,
+    "color": "#ffed00",
+    "attributes": [
+      {
+        "id": 81,
+        "name": "leg PB row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 82,
+        "name": "leg PB col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 83,
+        "name": "leg N row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 84,
+        "name": "leg N col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 85,
+        "name": "leg PG row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 86,
+        "name": "leg PG col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 87,
+        "name": "leg PR row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 88,
+        "name": "leg PR col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 89,
+        "name": "defectClass",
+        "input_type": "select",
+        "mutable": false,
+        "values": ["good", "NCM", "damaged", "broken"]
+      }
+    ]
+  },
+  {
+    "name": "Thermistor",
+    "id": 90,
+    "color": "#2a7dd1",
+    "attributes": [
+      {
+        "id": 91,
+        "name": "leg 1 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 92,
+        "name": "leg 1 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 93,
+        "name": "leg 2 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 94,
+        "name": "leg 2 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 95,
+        "name": "defectClass",
+        "input_type": "select",
+        "mutable": false,
+        "values": ["good", "NCM", "damaged", "broken"]
+      }
+    ]
+  },
+  {
+    "name": "Photoresistor",
+    "id": 100,
+    "color": "#ff355e",
+    "attributes": [
+      {
+        "id": 101,
+        "name": "leg 1 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 102,
+        "name": "leg 1 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 103,
+        "name": "leg 2 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 104,
+        "name": "leg 2 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 105,
+        "name": "defectClass",
+        "input_type": "select",
+        "mutable": false,
+        "values": ["good", "NCM", "damaged", "broken"]
+      }
+    ]
+  },
+  {
+    "name": "Passive Buzzer",
+    "id": 110,
+    "color": "#000000",
+    "attributes": [
+      {
+        "id": 111,
+        "name": "leg N row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 112,
+        "name": "leg N col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 113,
+        "name": "leg P row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 114,
+        "name": "leg P col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 115,
+        "name": "defectClass",
+        "input_type": "select",
+        "mutable": false,
+        "values": ["good", "NCM", "damaged", "broken"]
+      }
+    ]
+  },
+  {
+    "name": "Active Buzzer",
+    "id": 120,
+    "color": "#000000",
+    "attributes": [
+      {
+        "id": 121,
+        "name": "leg N row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 122,
+        "name": "leg N col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 123,
+        "name": "leg P row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 124,
+        "name": "leg P col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 125,
+        "name": "defectClass",
+        "input_type": "select",
+        "mutable": false,
+        "values": ["good", "NCM", "damaged", "broken"]
+      }
+    ]
+  },
+  {
+    "name": "IC 74HC595",
+    "id": 1300,
+    "color": "#8c78f0",
+    "attributes": [
+      {
+        "id": 1301,
+        "name": "leg 1 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1302,
+        "name": "leg 1 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 1303,
+        "name": "leg 2 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1304,
+        "name": "leg 2 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 1305,
+        "name": "leg 3 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1306,
+        "name": "leg 3 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 1307,
+        "name": "leg 4 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1308,
+        "name": "leg 4 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 1309,
+        "name": "leg 5 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1310,
+        "name": "leg 5 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 1311,
+        "name": "leg 6 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1312,
+        "name": "leg 6 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+
+      {
+        "id": 1313,
+        "name": "leg 7 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1314,
+        "name": "leg 7 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 1315,
+        "name": "leg 8 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1316,
+        "name": "leg 8 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 1317,
+        "name": "leg 9 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1318,
+        "name": "leg 9 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 1319,
+        "name": "leg 10 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1320,
+        "name": "leg 10 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 1321,
+        "name": "leg 11 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1322,
+        "name": "leg 11 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 1323,
+        "name": "leg 12 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1324,
+        "name": "leg 12 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 1325,
+        "name": "leg 13 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1326,
+        "name": "leg 13 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 1327,
+        "name": "leg 14 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1328,
+        "name": "leg 14 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 1329,
+        "name": "leg 15 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1330,
+        "name": "leg 15 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 1331,
+        "name": "leg 16 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1332,
+        "name": "leg 16 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 1333,
+        "name": "defectClass",
+        "input_type": "select",
+        "mutable": false,
+        "values": ["good", "NCM", "damaged", "broken"]
+      }
+    ]
+  },
+  {
+    "name": "IC 4N35",
+    "id": 1400,
+    "color": "#b83df5",
+    "attributes": [
+      {
+        "id": 1401,
+        "name": "leg 1 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1402,
+        "name": "leg 1 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 1403,
+        "name": "leg 2 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1404,
+        "name": "leg 2 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 1405,
+        "name": "leg 3 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1406,
+        "name": "leg 3 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 1407,
+        "name": "leg 4 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1408,
+        "name": "leg 4 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 1409,
+        "name": "leg 5 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1410,
+        "name": "leg 5 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 1411,
+        "name": "leg 6 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 1412,
+        "name": "leg 6 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 1413,
+        "name": "defectClass",
+        "input_type": "select",
+        "mutable": false,
+        "values": ["good", "NCM", "damaged", "broken"]
+      }
+    ]
+  },
+  {
+    "name": "Precision Potentiometer",
+    "id": 150,
+    "color": "#3d3df5",
+    "attributes": [
+      {
+        "id": 151,
+        "name": "leg 1 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 152,
+        "name": "leg 1 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 153,
+        "name": "leg 2 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 154,
+        "name": "leg 2 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 155,
+        "name": "leg 3 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 156,
+        "name": "leg 3 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 157,
+        "name": "defectClass",
+        "input_type": "select",
+        "mutable": false,
+        "values": ["good", "NCM", "damaged", "broken"]
+      }
+    ]
+  },
+  {
+    "name": "Wire",
+    "id": 160,
+    "color": "#733380",
+    "attributes": [
+      {
+        "id": 161,
+        "name": "subClass",
+        "input_type": "select",
+        "mutable": false,
+        "values": ["white", "red", "orange", "yellow", "green", "blue", "black"]
+      },
+      {
+        "id": 162,
+        "name": "leg 1 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 163,
+        "name": "leg 1 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 164,
+        "name": "leg 2 row",
+        "input_type": "number",
+        "mutable": false,
+        "values": ["1", "63", "1"]
+      },
+      {
+        "id": 165,
+        "name": "leg 2 col",
+        "input_type": "select",
+        "mutable": false,
+        "values": [
+          "N1",
+          "P1",
+          "a",
+          "b",
+          "c",
+          "d",
+          "e",
+          "f",
+          "g",
+          "h",
+          "i",
+          "j",
+          "N2",
+          "P2"
+        ]
+      },
+      {
+        "id": 166,
+        "name": "defectClass",
+        "input_type": "select",
+        "mutable": false,
+        "values": ["good", "NCM", "damaged", "broken"]
+      }
+    ]
+  }
+]
